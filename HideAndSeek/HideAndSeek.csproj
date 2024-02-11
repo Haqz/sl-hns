@@ -85,6 +85,7 @@
     </ItemGroup>
     <ItemGroup>
       <Compile Include="Config.cs" />
+      <Compile Include="Handlers\SeekerHandler.cs" />
       <Compile Include="Handlers\RoundHandler.cs" />
       <Compile Include="Handlers\ServerHandler.cs" />
       <Compile Include="HideAndSeek.cs" />
